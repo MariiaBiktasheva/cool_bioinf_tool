@@ -1,4 +1,4 @@
-	def gc_bounds_fun(seqs, lower_bound: float = 0, upper_bound: float = 100):
+def gc_bounds_fun(seqs, lower_bound: float = 0, upper_bound: float = 100):
     """
     Filter sequences by GC content
     Args:
